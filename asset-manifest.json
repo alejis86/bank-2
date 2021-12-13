@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bank-2/static/css/main.862d2e67.chunk.css",
+    "main.js": "/bank-2/static/js/main.5bb9672f.chunk.js",
+    "main.js.map": "/bank-2/static/js/main.5bb9672f.chunk.js.map",
+    "runtime-main.js": "/bank-2/static/js/runtime-main.22a7bb19.js",
+    "runtime-main.js.map": "/bank-2/static/js/runtime-main.22a7bb19.js.map",
+    "static/css/2.b3d21b21.chunk.css": "/bank-2/static/css/2.b3d21b21.chunk.css",
+    "static/js/2.8b7fc07a.chunk.js": "/bank-2/static/js/2.8b7fc07a.chunk.js",
+    "static/js/2.8b7fc07a.chunk.js.map": "/bank-2/static/js/2.8b7fc07a.chunk.js.map",
+    "index.html": "/bank-2/index.html",
+    "precache-manifest.8f5febaae84bc0a4446d664a72cf5357.js": "/bank-2/precache-manifest.8f5febaae84bc0a4446d664a72cf5357.js",
+    "service-worker.js": "/bank-2/service-worker.js",
+    "static/css/2.b3d21b21.chunk.css.map": "/bank-2/static/css/2.b3d21b21.chunk.css.map",
+    "static/css/main.862d2e67.chunk.css.map": "/bank-2/static/css/main.862d2e67.chunk.css.map",
+    "static/js/2.8b7fc07a.chunk.js.LICENSE.txt": "/bank-2/static/js/2.8b7fc07a.chunk.js.LICENSE.txt",
+    "static/media/cbanktokens.jpg": "/bank-2/static/media/cbanktokens.a142bddb.jpg",
+    "static/media/dbank.png": "/bank-2/static/media/dbank.adca41d3.png",
+    "static/media/etherlogo.jpg": "/bank-2/static/media/etherlogo.1e0bf434.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a7bb19.js",
+    "static/css/2.b3d21b21.chunk.css",
+    "static/js/2.8b7fc07a.chunk.js",
+    "static/css/main.862d2e67.chunk.css",
+    "static/js/main.5bb9672f.chunk.js"
+  ]
+}
